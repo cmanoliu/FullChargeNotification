@@ -1,0 +1,1 @@
+Unregister-ScheduledJob -Name "FullChargeNotification" -force
